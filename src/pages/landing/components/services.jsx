@@ -1,4 +1,4 @@
-import { HeartHandshake } from "lucide";
+import { HeartHandshake } from "lucide-react";
 import K from "../../../constants";
 
 const Services = () => {

@@ -1,4 +1,5 @@
-import { HeartHandshake } from "lucide";
+import { HeartHandshake } from "lucide-react";
+
 
 const K = {
     NAVLINKS: [
@@ -24,28 +25,28 @@ const K = {
         {
             title: "Amazing Deals",
             description: "Far far away, behind the word mountains, far from the countries Vokalia.",
-            
+            Icon: <HeartHandshake />,
             bgColor: "#F5EBEB"
         },
 
         {
             title: "Amazing Deals",
             description: "Far far away, behind the word mountains, far from the countries Vokalia.",
-          
+            Icon: <HeartHandshake />,
             bgColor: "#F5EBEB"
         },
 
         {
             title: "Amazing Deals",
             description: "Far far away, behind the word mountains, far from the countries Vokalia.",
-      
+            Icon: <HeartHandshake />,
             bgColor: "#F5EBEB"
         },
 
         {
             title: "Amazing Deals",
             description: "Far far away, behind the word mountains, far from the countries Vokalia.",
-         
+            Icon: <HeartHandshake />,
             bgColor: "#F5EBEB"
         }
     ]
